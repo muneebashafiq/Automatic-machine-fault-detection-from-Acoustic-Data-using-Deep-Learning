@@ -1,4 +1,4 @@
-# Machine Fault Detection From Acoustic Data Using Deep Learning
+# Machine Fault Detection From Acoustic  Data Using Deep Learning
 
 ## Table of Contents
 

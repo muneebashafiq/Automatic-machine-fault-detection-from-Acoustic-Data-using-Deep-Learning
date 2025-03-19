@@ -84,28 +84,27 @@ This project successfully develops an automated fault detection system using sou
 
 ## Model Architecture Overview
 <img src="https://github.com/user-attachments/assets/de2b93c1-a938-4747-af8e-d5cc18fea010" alt="Model Architecture" width="600">
-<!-- ![cnn-model-architecture](https://github.com/user-attachments/assets/de2b93c1-a938-4747-af8e-d5cc18fea010) -->
 
 ![model-overview](https://github.com/user-attachments/assets/c9f36e58-2319-4c44-84cb-9975a9184bf9)
 
 ## Model Training Progress
-![model_training_prgress](https://github.com/user-attachments/assets/ec3a5ae1-89fc-4dd5-af0d-98121ea0fe88)
+<img src="https://github.com/user-attachments/assets/ec3a5ae1-89fc-4dd5-af0d-98121ea0fe88" alt="Model Training Progress" width="600">
 
 
 ## Model Evaluation Results
-![model_evaulation-results](https://github.com/user-attachments/assets/547e09f1-7128-4f24-899d-1872c27744ec)
+<img src="https://github.com/user-attachments/assets/547e09f1-7128-4f24-899d-1872c27744ec" alt="Model Evaluation Results" width="600">
 
 
 ## Confusion Matrix for Model Performance
-![confusion-matrix](https://github.com/user-attachments/assets/03c64801-5004-4752-b340-0443adcae71e)
+<img src="https://github.com/user-attachments/assets/03c64801-5004-4752-b340-0443adcae71e" alt="Confusion Matrix" width="600">
 
 
 ## Classification Report
-![classification-report](https://github.com/user-attachments/assets/375f5f66-c343-44c8-a605-e8bb537ec936)
+<img src="https://github.com/user-attachments/assets/375f5f66-c343-44c8-a605-e8bb537ec936" alt="Classification Report" width="600">
 
 
 ## Loss and Accuracy Curves
-![accuracy and loss curves](https://github.com/user-attachments/assets/bd354585-1167-467d-8f20-0438e8b835c3)
+<img src="https://github.com/user-attachments/assets/bd354585-1167-467d-8f20-0438e8b835c3" alt="Loss and Accuracy Curve" width="600">
 
 
 ## Future Improvements

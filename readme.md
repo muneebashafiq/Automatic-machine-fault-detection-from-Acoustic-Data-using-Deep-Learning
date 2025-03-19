@@ -83,7 +83,8 @@ The final model achieves an accuracy of 87%, demonstrating its effectiveness in 
 This project successfully develops an automated fault detection system using sound analysis and deep learning. The system transforms audio signals into images and classifies faults using a CNN.
 
 ## Model Architecture Overview
-![cnn-model-architecture](https://github.com/user-attachments/assets/de2b93c1-a938-4747-af8e-d5cc18fea010)
+<img src="https://github.com/user-attachments/assets/de2b93c1-a938-4747-af8e-d5cc18fea010" alt="Model Architecture" width="600">
+<!-- ![cnn-model-architecture](https://github.com/user-attachments/assets/de2b93c1-a938-4747-af8e-d5cc18fea010) -->
 
 ![model-overview](https://github.com/user-attachments/assets/c9f36e58-2319-4c44-84cb-9975a9184bf9)
 

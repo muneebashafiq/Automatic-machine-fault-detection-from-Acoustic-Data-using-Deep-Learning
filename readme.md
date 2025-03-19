@@ -44,7 +44,7 @@ STFT Phase Images: While magnitude images show how much of each frequency is pre
 Mel-Frequency Cepstral Coefficients (MFCCs): The Mel-Frequency Cepstral Coefficients (MFCCs) are a widely used feature in sound processing because they closely mimic how human ears interpret sounds. MFCCs extract the most important characteristics of a sound, filtering out unnecessary background noise. They focus on the parts of the sound that change over time, which makes them useful for identifying different fault patterns in a machine. By converting MFCCs into images, the model can analyze how these features evolve, making it easier to classify machine faults accurately.
 Each extracted feature is converted into an image, ensuring that the CNN can effectively learn from the sound data.
 
-### Data Augmentation
+### Data Augmentation:
 
 To improve the model’s ability to recognize faults in different conditions, several data augmentation techniques are applied. These techniques include:
 

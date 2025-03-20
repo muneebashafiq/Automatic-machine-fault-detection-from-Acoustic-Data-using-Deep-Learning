@@ -26,6 +26,15 @@ Detecting faults in industrial machines is essential to prevent unexpected break
 
 In industrial settings, detecting faults early is crucial to maintaining efficiency and reducing downtime. Machines often produce distinct sound patterns when faults develop. Analyzing these sound signals can help identify faults before they lead to failures. Traditional fault detection methods, such as vibration analysis, require expensive sensors and expert analysis. This project proposes an automated solution using computer vision and deep learning to analyze sound signals. The approach involves converting audio data into images and using a convolutional neural network (CNN) to classify different fault types. The goal is to develop a system that is accurate, fast, and reliable for real-world industrial applications.
 
+# Installation
+
+To use the project, follow these steps:
+
+## 1. Clone the Repository
+Clone the GitHub repository to your local machine.
+
+git clone [(https://github.com/muneebashafiq/Automatic-machine-fault-detection-from-Acoustic-Data-using-Deep-Learning](https://github.com/muneebashafiq/Automatic-machine-fault-detection-from-Acoustic-Data-using-Deep-Learning)
+
 # Methodology
 
 This project follows a structured approach, which includes data preprocessing, feature extraction, data augmentation, model training, and evaluation.

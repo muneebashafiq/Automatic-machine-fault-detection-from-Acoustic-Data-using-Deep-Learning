@@ -33,7 +33,7 @@ To use the project, follow these steps:
 ## 1. Clone the Repository
 Clone the GitHub repository to your local machine.
 
-git clone [(https://github.com/muneebashafiq/Automatic-machine-fault-detection-from-Acoustic-Data-using-Deep-Learning](https://github.com/muneebashafiq/Automatic-machine-fault-detection-from-Acoustic-Data-using-Deep-Learning)
+git clone [https://github.com/muneebashafiq/Automatic-machine-fault-detection-from-Acoustic-Data-using-Deep-Learning](https://github.com/muneebashafiq/Automatic-machine-fault-detection-from-Acoustic-Data-using-Deep-Learning)
 
 # Methodology
 

@@ -30,12 +30,43 @@ In industrial settings, detecting faults early is crucial to maintaining efficie
 
 To use the project, follow these steps:
 
-## 1. Clone the Repository
+### 1. Clone the Repository
 Clone the GitHub repository to your local machine.
 
 ```bash
 git clone https://github.com/muneebashafiq/Automatic-machine-fault-detection-from-Acoustic-Data-using-Deep-Learning
 ```
+
+### 3. Install Dependencies
+
+Install the required dependencies by running the following command in your terminal.
+
+```bash
+pip install -r requirements.txt
+```
+
+# Usage
+To use the project:
+### 1. Run on Google Colab:
+
+- Upload your dataset to Google Drive.
+- Mount your drive in Colab:
+```bash
+from google.colab import drive
+drive.mount('/content/drive')
+```
+- Set the dataset path accordingly:
+```bash
+audio_dir = '/content/drive/MyDrive/dataset_folder/'
+```
+### 2. Running Locally
+To run the project locally, follow these steps:
+- Run the Project: Start the application.
+```bash
+python main.py
+```
+
+- Or Use Jupyter Notebook
 
 # Methodology
 

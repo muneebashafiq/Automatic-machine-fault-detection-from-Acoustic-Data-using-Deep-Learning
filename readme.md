@@ -85,10 +85,10 @@ This project successfully develops an automated fault detection system using sou
 ## Model Architecture Overview
 <img src="https://github.com/user-attachments/assets/de2b93c1-a938-4747-af8e-d5cc18fea010" alt="Model Architecture" width="600">
 
-![model-overview](https://github.com/user-attachments/assets/c9f36e58-2319-4c44-84cb-9975a9184bf9)
+<img src="https://github.com/user-attachments/assets/c9f36e58-2319-4c44-84cb-9975a9184bf9" width="600">
 
 ## Model Training Progress
-<img src="https://github.com/user-attachments/assets/ec3a5ae1-89fc-4dd5-af0d-98121ea0fe88" alt="Model Training Progress" width="400">
+<img src="https://github.com/user-attachments/assets/ec3a5ae1-89fc-4dd5-af0d-98121ea0fe88" alt="Model Training Progress" width="500">
 
 
 ## Model Evaluation Results

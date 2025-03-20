@@ -35,6 +35,7 @@ Clone the GitHub repository to your local machine.
 
 ```bash
 git clone https://github.com/muneebashafiq/Automatic-machine-fault-detection-from-Acoustic-Data-using-Deep-Learning
+```
 
 # Methodology
 

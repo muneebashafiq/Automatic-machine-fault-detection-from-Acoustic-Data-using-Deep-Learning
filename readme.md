@@ -63,7 +63,7 @@ audio_dir = '/content/drive/MyDrive/dataset_folder/'
 To run the project locally, follow these steps:
 - Run the Project: Start the application.
 ```bash
-python main.py
+python Machine_fault_detection.ipynb
 ```
 
 - Or Use Jupyter Notebook

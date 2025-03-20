@@ -88,7 +88,7 @@ This project successfully develops an automated fault detection system using sou
 ![model-overview](https://github.com/user-attachments/assets/c9f36e58-2319-4c44-84cb-9975a9184bf9)
 
 ## Model Training Progress
-<img src="https://github.com/user-attachments/assets/ec3a5ae1-89fc-4dd5-af0d-98121ea0fe88" alt="Model Training Progress" width="500">
+<img src="https://github.com/user-attachments/assets/ec3a5ae1-89fc-4dd5-af0d-98121ea0fe88" alt="Model Training Progress" width="400">
 
 
 ## Model Evaluation Results
@@ -96,11 +96,11 @@ This project successfully develops an automated fault detection system using sou
 
 
 ## Confusion Matrix for Model Performance
-<img src="https://github.com/user-attachments/assets/03c64801-5004-4752-b340-0443adcae71e" alt="Confusion Matrix" width="600">
+<img src="https://github.com/user-attachments/assets/03c64801-5004-4752-b340-0443adcae71e" alt="Confusion Matrix" width="400">
 
 
 ## Classification Report
-<img src="https://github.com/user-attachments/assets/375f5f66-c343-44c8-a605-e8bb537ec936" alt="Classification Report" width="500">
+<img src="https://github.com/user-attachments/assets/375f5f66-c343-44c8-a605-e8bb537ec936" alt="Classification Report" width="400">
 
 
 ## Loss and Accuracy Curves
